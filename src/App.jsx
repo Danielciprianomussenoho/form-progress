@@ -58,8 +58,7 @@ function App() {
     }
     return (
         <div>
-            <p>Desafio de Intrevistassss</p>
-            <h1>Progresso dohhhhs Formulario</h1>
+            <h1>Progresso do Formulario</h1>
 
             <main>
                 <div className="bar-container">
@@ -67,7 +66,7 @@ function App() {
                 </div>
 
                 <div className="form-group">
-                    <label htmlFor="nome">Nome Completos</label>
+                    <label htmlFor="nome">Nome Completo</label>
                     <input
                         type="text"
                         id="nome"
